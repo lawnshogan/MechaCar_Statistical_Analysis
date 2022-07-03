@@ -1,4 +1,7 @@
-# CHALLENGE 15: DELIVERABLE 1
+### CHALLENGE 15
+
+
+# DELIVERABLE 1
 
 # 3. Use the library() function to load the dplyr package
 library(dplyr)
@@ -46,6 +49,10 @@ plt1 + geom_boxplot() #add boxplot
 #box plot: PSI each indicdiual Lot
 plt2 <- ggplot(mecha_coil,aes(x=Manufacturing_Lot,y=PSI)) #import dataset into ggplot2
 plt2 + geom_boxplot()
+
+
+
+
 
 # DELIVERABLE 3
 
