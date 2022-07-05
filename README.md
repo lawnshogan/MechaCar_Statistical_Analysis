@@ -27,7 +27,7 @@
 - p-Value = 0.04 (lower than significance level of 0.05)
 - Reject the null hypothesis - Mean and the presumed population mean are not statistically different.
 
-# Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+# Deliverable 4
 
 ## Study Design: MechaCar vs Competition
 
