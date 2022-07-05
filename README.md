@@ -34,16 +34,16 @@
 1. Metrics
 - Major manufacturers data (past three years) for the following metrics:
 
-- IV = Independent Variable
-- DV = Dependant Variable
+### IV = Independent Variable
+### DV = Dependant Variable
 
-Drive Package : IV
-MPG Efficiency: IV
-Safety Rating: IV
-Selling Price: DV
-Resale Value: IV
-Annual Ownership Maintenance Cost: IV
-Engine Type: IV
+- Drive Package : IV
+- MPG Efficiency: IV
+- Safety Rating: IV
+- Selling Price: DV
+- Resale Value: IV
+- Annual Ownership Maintenance Cost: IV
+- Engine Type: IV
 
 
 2. Hypothesis: Null and Alternative
