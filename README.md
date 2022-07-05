@@ -6,6 +6,14 @@
 4. Removing vehicle weight, spoiler angle, and AWD - Predictability does decrease, but not drastically (r-squared value falls from 0.7149 to 0.674).
 
 
-- Deliverable 2: Summary Statistics on Suspension Coils
-- Deliverable 3: T-Test on Suspension Coils
+# Deliverable 2: Summary Statistics on Suspension Coils
+
+- MechaCar suspension coils policy - Suspension coils cannot exceed 100 pounds per square inch (PSI). 
+- When looking at the production lot, the variance of the coils is 62.29 PSI (must be below 100 PSI).
+- Lot 1 (0.98 PSI) and Lot 2 (7.47 PSI) - Within the 100 PSI requirement 
+- Lot 3 is showing variance in consistency & performance at 170.29 PSI.
+
+# Deliverable 3: T-Test on Suspension Coils
+
+
 - Deliverable 4: Design a Study Comparing the MechaCar to the Competition
