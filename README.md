@@ -1,4 +1,5 @@
 # MechaCar_Statistical_Analysis
+
 # Deliverable 1: Linear Regression to Predict MPG 
 1. Ground clearance and length of vehicle are likely to provide a variance to the model. Therefore the vehicles ground clearance and length have significant impact of mpg. Other variance can include the spoiler type and angle, AWD and vehicle weight.
 2. P-Value: Much smaller than the significance level of 0.05%. This indicates there is sufficient evidence to reject our null hypothesis.
@@ -15,5 +16,15 @@
 
 # Deliverable 3: T-Test on Suspension Coils
 
+1. Lot 1 sample has the true sample mean of 1500. With a p-Value of 1, clearly we cannot reject the null hypothesis
+- There is no statistical difference between the sample mean and the population mean (1500).
+
+2. Lot 2 has similar outcome, 1500.02 (p-Value of 0.61)
+- There is no statistical difference between the sample mean and the population mean (1500).
+
+3. Lot 3 - Not comparable to lot 1 & 2. 
+- Sample mean = 1496.14
+- p-Value = 0.04 (lower than significance level of 0.05)
+- Reject the null hypothesis - Mean and the presumed population mean are not statistically different.
 
 - Deliverable 4: Design a Study Comparing the MechaCar to the Competition
