@@ -47,7 +47,7 @@
 
 
 2. Hypothesis: Null and Alternative
-Key factors are determined for MechaCar's genre:
+#### Key factors are determined for MechaCar's genre:
 
 Null Hypothesis (Ho): MechaCar is correctly priced based on performance of key factors.
 Alternative Hypothesis (Ha): MechaCar is NOT correctly priced based on performance of key factors.
