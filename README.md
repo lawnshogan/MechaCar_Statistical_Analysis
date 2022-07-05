@@ -34,8 +34,8 @@
 1. Metrics
 - Major manufacturers data (past three years) for the following metrics:
 
-### IV = Independent Variable
-### DV = Dependant Variable
+#### IV = Independent Variable
+#### DV = Dependant Variable
 
 - Drive Package : IV
 - MPG Efficiency: IV
