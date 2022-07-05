@@ -53,4 +53,4 @@
 - Alternative Hypothesis (Ha): MechaCar is NOT correctly priced based on performance of key factors.
 
 3. Statistical Tests
-Multiple linear regression would be used to determine the factors that have the highest correlation/predictability with the list selling price.
+- Multiple linear regression would be used to determine the factors that have the highest correlation/predictability with the list selling price.
