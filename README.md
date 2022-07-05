@@ -28,3 +28,29 @@
 - Reject the null hypothesis - Mean and the presumed population mean are not statistically different.
 
 - Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+
+## Study Design: MechaCar vs Competition
+
+1. Metrics
+Major manufacturers data (past three years) for the following metrics:
+
+- IV = Independent Variable
+- DV = Dependant Variable
+
+Drive Package : IV
+MPG Efficiency: IV
+Safety Rating: IV
+Selling Price: DV
+Resale Value: IV
+Annual Ownership Maintenance Cost: IV
+Engine Type: IV
+
+
+2. Hypothesis: Null and Alternative
+Key factors are determined for MechaCar's genre:
+
+Null Hypothesis (Ho): MechaCar is correctly priced based on performance of key factors.
+Alternative Hypothesis (Ha): MechaCar is NOT correctly priced based on performance of key factors.
+
+3. Statistical Tests
+Multiple linear regression would be used to determine the factors that have the highest correlation/predictability with the list selling price.
